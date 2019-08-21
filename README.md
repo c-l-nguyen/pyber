@@ -11,9 +11,9 @@ To do this, I have created a Bubble Plot in the included **Jupyter Notebook** th
 
 In addition, the following three pie charts have also been produced to draw conclusions:
 
-% of Total Fares by City Type
-% of Total Rides by City Type
-% of Total Drivers by City Type
+* % of Total Fares by City Type
+* % of Total Rides by City Type
+* % of Total Drivers by City Type
 
 ## Purpose
 To demonstrate matplotlib plotting in Python/pandas.
